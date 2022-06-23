@@ -51,3 +51,10 @@ The accuracy is 93%
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
 As above pictures show, I did recommend to "Easy Ensemble AdaBoost Classifier" since the accuracy is higher than all other model and even in the report it shows all percentage is higher than 90%
+
+![image](https://user-images.githubusercontent.com/100230706/175195961-470962f5-ac56-406f-9706-b8eb3faa5c20.png)
+
+![image](https://user-images.githubusercontent.com/100230706/175195988-0e188420-ce42-4922-9d7c-b2bb81ec63a2.png)
+
+
+
